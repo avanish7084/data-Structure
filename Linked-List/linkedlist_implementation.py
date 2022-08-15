@@ -67,14 +67,4 @@ if __name__=='__main__':
     list.insertion_beginning(15)
     list.insertion_after_node(9,5)
     list.print_Linkedlist()
-
-
-
-
-
-
-
-
-
-
-
+    
